@@ -1,5 +1,7 @@
-### Hi there 👋
+### Igor Portugal 😄
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felps03)](https://www.linkedin.com/in/igor-bazilio/)
 
+Meus conhecimentos são em HTML, CSS,JS e C# conheço um pouco de Angular e tenho uma base da estrutura MVC, no momento estou estudando React.
 <!--
 **igorinopb/igorinopb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
